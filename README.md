@@ -8,5 +8,6 @@
 
 - **CN (11/6/2023)**: 
   - Sáng : Overthinking, Delay, Brain Destruction,...
+  - Chiều : Nói chung cũng dell làm đc j 
 
 
