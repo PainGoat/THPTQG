@@ -7,7 +7,11 @@
 ## Tiến độ
 
 - **CN (11/6/2023)**: 
-  - Sáng : Overthinking, Delay, Brain Destruction,...
-  - Chiều : Nói chung cũng dell làm đc j 
+  - Tóm tắt : Overthinking, Delay, Brain Destruction,... => Dell làm đc j
+- **T2 (12/6/2023)**:
+  - Sáng 
+    - sample1
+    - sample2
+ 
 
 
