@@ -1,12 +1,14 @@
 # 2 tuần ôn thi THPTQG
 
-## Thông
-
+## Thông tin
+- **Target : 26+**
+- **Thời gian : 2 tuần**
 
 ## Tiến độ
 
-- T3 24/8/2021: 
-  - kdjfl
-  - djaf
+- **CN (11/6/2023)**: 
+  - sample 1
+  - sample 2
+  - sample 3
 
 
