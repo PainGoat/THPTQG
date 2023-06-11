@@ -7,8 +7,6 @@
 ## Tiến độ
 
 - **CN (11/6/2023)**: 
-  - sample 1
-  - sample 2
-  - sample 3
+  - Sáng : Overthinking, Delay, Brain Destruction,...
 
 
