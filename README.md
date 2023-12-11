@@ -1,9 +1,1 @@
-# 2 tuần ôn thi THPTQG
-
-## Thông tin
-- **Thời gian : 2 tuần**
-
-
- 
-
-
+https://github.com/doocs/leetcode/blob/main/README_EN.md
